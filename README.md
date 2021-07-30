@@ -1,11 +1,10 @@
 # Restaurant_GraphQL
 Querey data from a JSON file using GraphQL
 
-# How to Run
+## How to Run
 Clone Restaurant_GraphQL to your local computer. First run an NPM Install to aquire necessary packages. Next run a node index.js. Finally navigate to localhost port specified /graphql
 
-## here are the query and mutation structures
-
+## Here are the query and mutation structures
 query getContacts{
 contacts{
 name

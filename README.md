@@ -1,5 +1,8 @@
 # Restaurant_GraphQL
-Querey data from a JSON file using GraphQL
+Query data from a JSON file using GraphQL
+
+## Description
+This is a basic application that uses GraphQL to setup a restaurant schema. By navigating the port 5500/graphQL, the graph QL interface displays on the browser and you can query different parts of the restaurant data located in the restaurants.json file.
 
 ## How to Run
 Clone Restaurant_GraphQL to your local computer. First run an NPM Install to aquire necessary packages. Next run a node index.js. Finally navigate to localhost port specified /graphql
